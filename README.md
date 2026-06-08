@@ -9,7 +9,7 @@
 
 ##  Application déployée
 
- **[Accéder à l'application Streamlit](https://VOTRE-LIEN-STREAMLIT.streamlit.app)**
+ **[Accéder à l'application Streamlit](https://fraud-detection-msde7-sf-mm.streamlit.app)**
 
 
 ---
